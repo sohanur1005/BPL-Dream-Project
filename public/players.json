@@ -1,0 +1,122 @@
+[
+  {
+    "player-image": "https://i.ibb.co.com/Pv8YMVCv/liton.jpg",
+    "player-name": "Litton Das",
+    "player-country": "Bangladesh",
+    "playing-role": "Wicketkeeper Batter",
+    "rating": "8.5/10",
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm offbreak",
+    "price": "7,000,000 BDT"
+  },
+  {
+    "player-image": "https://i.ibb.co.com/nM1vKtzG/naim.jpg",
+    "player-name": "Mohammad Naim",
+    "player-country": "Bangladesh",
+    "playing-role": "Opening Batter",
+    "rating": "7.8/10",
+    "bating-style": "Left-hand bat",
+    "bowling-style": "Right-arm medium",
+    "price": "11,000,000 BDT"
+  },
+  {
+    "player-image": "https://i.ibb.co.com/zVkWDnV1/tawhid.jpg",
+    "player-name": "Tawhid Hridoy",
+    "player-country": "Bangladesh",
+    "playing-role": "Top-order Batter",
+    "rating": "8.7/10",
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm offbreak",
+    "price": "9,200,000 BDT"
+  },
+  {
+    "player-image": "https://i.ibb.co.com/cSPx2Jf8/saifuddin.jpg",
+    "player-name": "Mohammad Saifuddin",
+    "player-country": "Bangladesh",
+    "playing-role": "Bowling All-rounder",
+    "rating": "8.0/10",
+    "bating-style": "Left-hand bat",
+    "bowling-style": "Right-arm medium-fast",
+    "price": "6,800,000 BDT"
+  },
+  {
+    "player-image": "https://i.ibb.co.com/SXNcxqQp/tanjid-shakib.jpg",
+    "player-name": "Tanzim Hasan Sakib",
+    "player-country": "Bangladesh",
+    "playing-role": "Bowler",
+    "rating": "8.2/10",
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm fast-medium",
+    "price": "6,500,000 BDT"
+  },
+  {
+    "player-image": "https://i.ibb.co.com/ks76kKW3/shamim.jpg",
+    "player-name": "Shamim Hossain",
+    "player-country": "Bangladesh",
+    "playing-role": "Middle-order Batter",
+    "rating": "7.6/10",
+    "bating-style": "Left-hand bat",
+    "bowling-style": "Right-arm offbreak",
+    "price": "5,600,000 BDT"
+  },
+  {
+    "player-image": "https://i.ibb.co.com/nMLhTQPJ/nahid.jpg",
+    "player-name": "Nahid Rana",
+    "player-country": "Bangladesh",
+    "playing-role": "Bowler",
+    "rating": "8.3/10",
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm fast",
+    "price": "5,600,000 BDT"
+  },
+  {
+    "player-image": "https://i.ibb.co.com/dwjDVDrG/mithun.jpg",
+    "player-name": "Mohammad Mithun",
+    "player-country": "Bangladesh",
+    "playing-role": "Wicketkeeper Batter",
+    "rating": "7.2/10",
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm offbreak",
+    "price": "5,200,000 BDT"
+  },
+  {
+    "player-image": "https://i.ibb.co.com/PvfLphg6/khaled.jpg",
+    "player-name": "Khaled Ahmed",
+    "player-country": "Bangladesh",
+    "playing-role": "Bowler",
+    "rating": "7.5/10",
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm medium-fast",
+    "price": "4,700,000 BDT"
+  },
+  {
+    "player-image": "https://i.ibb.co.com/67SZhbV0/shoriful.jpg",
+    "player-name": "Shoriful Islam",
+    "player-country": "Bangladesh",
+    "playing-role": "Bowler",
+    "rating": "8.4/10",
+    "bating-style": "Left-hand bat",
+    "bowling-style": "Left-arm fast-medium",
+    "price": "4,400,000 BDT"
+  },
+  {
+    "player-image": "https://i.ibb.co.com/rGJqc0DH/rakibul.jpg",
+    "player-name": "Rakibul Hasan",
+    "player-country": "Bangladesh",
+    "playing-role": "Bowler",
+    "rating": "7.4/10",
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Slow left-arm orthodox",
+    "price": "4,200,000 BDT"
+  },
+  {
+    "player-image": "https://i.ibb.co.com/TxXQBcNC/mushfiqur.jpg",
+    "player-name": "Mushfiqur Rahim",
+    "player-country": "Bangladesh",
+    "playing-role": "Wicketkeeper Batter",
+    "rating": "8.8/10",
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm medium",
+    "price": "3,500,000 BDT"
+  }
+]
